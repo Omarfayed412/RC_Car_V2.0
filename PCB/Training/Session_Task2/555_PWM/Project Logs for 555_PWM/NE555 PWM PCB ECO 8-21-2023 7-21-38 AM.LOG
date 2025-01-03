@@ -1,0 +1,13 @@
+Added Component: Designator=U1(NE555_DIP8)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part #"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=TRIG Pin=U1-2
+Added Pin To Net: NetName=OUT Pin=U1-3
+Added Pin To Net: NetName=VCC Pin=U1-4
+Added Pin To Net: NetName=NetC1_2 Pin=U1-5
+Added Pin To Net: NetName=TRIG Pin=U1-6
+Added Pin To Net: NetName=DSCH Pin=U1-7
+Added Pin To Net: NetName=VCC Pin=U1-8
+Added Member To Class: ClassName=555_PWM Member=Component U1 NE555

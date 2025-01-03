@@ -1,0 +1,70 @@
+Added Component: Designator=C1(Capacitor Ceramic)
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C2(Capacitor POL THT)
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C3(Capacitor Ceramic)
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C4(Capacitor POL THT)
+Add component (AddParameter): Name = "Value"; Value = "220uF"; VariantName = "[No Variations]"
+Added Component: Designator=D1(Diode)
+Added Component: Designator=D2(LED THT 3mm)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer part NO."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier part No."; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J1(TerminalBlock)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier part No."; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J2(TerminalBlock)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier part No."; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J3(PinHeader THT 3)
+Added Component: Designator=L3(Inductor THT)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uH"; VariantName = "[No Variations]"
+Added Component: Designator=R1(Resistor THT)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supllier Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330R"; VariantName = "[No Variations]"
+Added Component: Designator=U1(LM2596)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PartNo."; Value = "LM2596"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Makers"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V Pin=C3-2
+Added Pin To Net: NetName=+5V Pin=C4-+
+Added Pin To Net: NetName=+5V Pin=D2-+
+Added Pin To Net: NetName=+5V Pin=J1-1
+Added Pin To Net: NetName=+5V Pin=L3-2
+Added Pin To Net: NetName=+5V Pin=U1-4
+Added Net: Name=+5V
+Added Pin To Net: NetName=EN Pin=J3-2
+Added Pin To Net: NetName=EN Pin=U1-5
+Added Net: Name=EN
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2--
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4--
+Added Pin To Net: NetName=GND Pin=D1-+
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=GND Pin=J3-1
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Net: Name=GND
+Added Pin To Net: NetName=NetD1_- Pin=D1--
+Added Pin To Net: NetName=NetD1_- Pin=L3-1
+Added Pin To Net: NetName=NetD1_- Pin=U1-2
+Added Net: Name=NetD1_-
+Added Pin To Net: NetName=VCC Pin=C1-2
+Added Pin To Net: NetName=VCC Pin=C2-+
+Added Pin To Net: NetName=VCC Pin=J2-1
+Added Pin To Net: NetName=VCC Pin=J3-3
+Added Pin To Net: NetName=VCC Pin=U1-1
+Added Net: Name=VCC
+Added Class: Name=5V_Regulator

@@ -1,0 +1,34 @@
+Added Component: Designator=D?(LED THT 3mm)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer part NO."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier part No."; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J?(TerminalBlock)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier part No."; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(Resistor THT)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supllier Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=SW?(PushButton THT)
+Add component (AddParameter): Name = "Manufactuerer Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier part No."; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=D?-+
+Added Pin To Net: NetName=NetD?_- Pin=D?--
+Added Pin To Net: NetName=VCC Pin=J?-1
+Added Pin To Net: NetName=Button Pin=J?-2
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=NetD?_- Pin=R?-2
+Added Pin To Net: NetName=GND Pin=SW?-1
+Added Pin To Net: NetName=Button Pin=SW?-2
+Added Pin To Net: NetName=GND Pin=SW?-3
+Added Pin To Net: NetName=Button Pin=SW?-4
+Added Member To Class: ClassName=LED_Button Member=Component D? (D1) LED TFT
+Added Member To Class: ClassName=LED_Button Member=Component J? (J1) TerminalBlock
+Added Member To Class: ClassName=LED_Button Member=Component R? (R1) Resistor THT
+Added Member To Class: ClassName=LED_Button Member=Component SW? (SW1) PushButton THT
