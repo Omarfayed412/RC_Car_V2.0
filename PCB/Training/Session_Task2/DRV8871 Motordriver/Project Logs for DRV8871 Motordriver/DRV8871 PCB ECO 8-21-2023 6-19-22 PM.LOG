@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=OUT2 Pin=C1-1
-Removed Pin From Net: NetName=OUT1 Pin=C1-2
-Removed Pin From Net: NetName=OUT2 Pin=J1-1
-Removed Pin From Net: NetName=OUT1 Pin=J1-2
-Added Pin To Net: NetName=OUT1 Pin=C1-1
-Added Pin To Net: NetName=OUT2 Pin=C1-2
-Added Pin To Net: NetName=OUT1 Pin=J1-1
-Added Pin To Net: NetName=OUT2 Pin=J1-2

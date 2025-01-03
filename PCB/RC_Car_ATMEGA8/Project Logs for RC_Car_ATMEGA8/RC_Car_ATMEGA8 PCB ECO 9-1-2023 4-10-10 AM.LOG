@@ -1,0 +1,20 @@
+Added Component: Designator=U6(ESP32_DevBrd_DIP30)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part #"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part #"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Y1(Crystal_THT)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part #"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part #"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "16MHz"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U6-14
+Added Pin To Net: NetName=+5V Pin=U6-15
+Added Pin To Net: NetName=GND Pin=U6-17
+Added Pin To Net: NetName=TXD Pin=U6-27
+Added Pin To Net: NetName=RXD Pin=U6-28
+Added Pin To Net: NetName=NetC8_2 Pin=Y1-1
+Added Pin To Net: NetName=NetC7_2 Pin=Y1-2
+Added Member To Class: ClassName=RC_Car_ATMEGA8 Member=Component U6 ESP32_DevBrd
+Added Member To Class: ClassName=RC_Car_ATMEGA8 Member=Component Y1 Crystal

@@ -1,0 +1,448 @@
+Added Component: Designator=B1(Buzzer 12mm)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part#"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C1(MLCC_0402)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part #"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part #"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C2(MLCC_0402)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part #"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part #"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C3(MLCC_0402)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part #"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part #"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C4(Cap_Pol_6*2.5)
+Add component (AddParameter): Name = "MAnufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part #"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part #"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220uF"; VariantName = "[No Variations]"
+Added Component: Designator=C5(Cap_Pol_6*2.5)
+Add component (AddParameter): Name = "MAnufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part #"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part #"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220uF"; VariantName = "[No Variations]"
+Added Component: Designator=C6(MLCC_0402)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part #"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part #"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C7(Capacitor Ceramic)
+Add component (AddParameter): Name = "Value"; Value = "22pF"; VariantName = "[No Variations]"
+Added Component: Designator=C8(Capacitor Ceramic)
+Added Component: Designator=C9(MLCC_0402)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part #"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part #"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C10(MLCC_0805)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part #"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part #"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1nF"; VariantName = "[No Variations]"
+Added Component: Designator=C11(MLCC_0402)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part #"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part #"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C12(MLCC_0402)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part #"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part #"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C13(MLCC_0402)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part #"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part #"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C14(MLCC_0402)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part #"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part #"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=D1(Zener_)
+Add component (AddParameter): Name = "Maniufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part#"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D2(LED THT 5mm)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer part NO."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier part No."; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D3(LED THT 5mm)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer part NO."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier part No."; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D4(LED THT 5mm)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer part NO."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier part No."; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D5(LED THT 5mm)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer part NO."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier part No."; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D6(LED THT 5mm)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer part NO."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier part No."; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D7(LED THT 5mm)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer part NO."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier part No."; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D8(RGB LED THT)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part#"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J1(TerminalBlock_5mm)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier part No."; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J2(PinSocket (1 * 4) 2.54)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part#"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J3(TerminalBlock_5mm)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier part No."; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J4(TerminalBlock_5mm)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier part No."; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J5(PinSocket 1 * 2 2.54)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part #"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part #"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J6(PinSocket (1 * 4) 2.54)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part#"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J7(PinSocket (1 * 4) 2.54)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part#"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q1(TO_252)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part#"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R1(Resistor_SMD_0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer part #"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturerr"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supllier Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier part #"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100K"; VariantName = "[No Variations]"
+Added Component: Designator=R2(Resistor THT)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer part #"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturerr"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supllier Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier part #"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330R"; VariantName = "[No Variations]"
+Added Component: Designator=R3(Resistor THT)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer part #"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturerr"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supllier Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier part #"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330R"; VariantName = "[No Variations]"
+Added Component: Designator=R4(Resistor THT)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer part #"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturerr"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supllier Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier part #"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330R"; VariantName = "[No Variations]"
+Added Component: Designator=R5(Resistor THT)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer part #"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturerr"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supllier Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier part #"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330R"; VariantName = "[No Variations]"
+Added Component: Designator=R6(Resistor THT)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer part #"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturerr"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supllier Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier part #"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=U1(Atmega8_DIP28)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part#"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U3(L7805)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part#"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U4(L293D_DIP16 - duplicate)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part#"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U5(ACS712_SOP8)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supllier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supllier Part#"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V Pin=C1-2
+Added Pin To Net: NetName=+5V Pin=C2-2
+Added Pin To Net: NetName=+5V Pin=C5-1
+Added Pin To Net: NetName=+5V Pin=C6-2
+Added Pin To Net: NetName=+5V Pin=C12-2
+Added Pin To Net: NetName=+5V Pin=C14-2
+Added Pin To Net: NetName=+5V Pin=J6-4
+Added Pin To Net: NetName=+5V Pin=J7-4
+Added Pin To Net: NetName=+5V Pin=R2-2
+Added Pin To Net: NetName=+5V Pin=U1-7
+Added Pin To Net: NetName=+5V Pin=U1-20
+Added Pin To Net: NetName=+5V Pin=U1-21
+Added Pin To Net: NetName=+5V Pin=U3-3
+Added Pin To Net: NetName=+5V Pin=U4-16
+Added Pin To Net: NetName=+5V Pin=U5-8
+Added Net: Name=+5V
+Added Pin To Net: NetName=Buzzer Pin=B1-2
+Added Pin To Net: NetName=Buzzer Pin=U1-5
+Added Net: Name=Buzzer
+Added Pin To Net: NetName=Echo Pin=J6-2
+Added Pin To Net: NetName=Echo Pin=U1-25
+Added Net: Name=Echo
+Added Pin To Net: NetName=EN1 Pin=U1-11
+Added Pin To Net: NetName=EN1 Pin=U4-1
+Added Net: Name=EN1
+Added Pin To Net: NetName=EN2 Pin=U1-16
+Added Pin To Net: NetName=EN2 Pin=U4-9
+Added Net: Name=EN2
+Added Pin To Net: NetName=GND Pin=B1-1
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=GND Pin=D6--
+Added Pin To Net: NetName=GND Pin=D7--
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J5-1
+Added Pin To Net: NetName=GND Pin=J6-1
+Added Pin To Net: NetName=GND Pin=J7-3
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=GND Pin=R6-2
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=GND Pin=U1-22
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Pin To Net: NetName=GND Pin=U4-12
+Added Pin To Net: NetName=GND Pin=U5-5
+Added Net: Name=GND
+Added Pin To Net: NetName=GPIO Pin=J5-2
+Added Pin To Net: NetName=GPIO Pin=U1-4
+Added Net: Name=GPIO
+Added Pin To Net: NetName=I_SEN Pin=U1-23
+Added Pin To Net: NetName=I_SEN Pin=U5-7
+Added Net: Name=I_SEN
+Added Pin To Net: NetName=IN1 Pin=U1-12
+Added Pin To Net: NetName=IN1 Pin=U4-2
+Added Net: Name=IN1
+Added Pin To Net: NetName=IN2 Pin=U1-13
+Added Pin To Net: NetName=IN2 Pin=U4-7
+Added Net: Name=IN2
+Added Pin To Net: NetName=IN3 Pin=U1-14
+Added Pin To Net: NetName=IN3 Pin=U4-10
+Added Net: Name=IN3
+Added Pin To Net: NetName=IN4 Pin=U1-15
+Added Pin To Net: NetName=IN4 Pin=U4-15
+Added Net: Name=IN4
+Added Pin To Net: NetName=Ind_led Pin=R3-2
+Added Pin To Net: NetName=Ind_led Pin=U1-6
+Added Net: Name=Ind_led
+Added Pin To Net: NetName=MISO Pin=D8-G
+Added Pin To Net: NetName=MISO Pin=J2-3
+Added Pin To Net: NetName=MISO Pin=U1-18
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=D8-R
+Added Pin To Net: NetName=MOSI Pin=J2-4
+Added Pin To Net: NetName=MOSI Pin=U1-17
+Added Net: Name=MOSI
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=NetC7_2 Pin=U1-9
+Added Net: Name=NetC7_2
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=NetC8_2 Pin=U1-10
+Added Net: Name=NetC8_2
+Added Pin To Net: NetName=NetC9_2 Pin=C9-2
+Added Pin To Net: NetName=NetC9_2 Pin=J3-2
+Added Net: Name=NetC9_2
+Added Pin To Net: NetName=NetC10_2 Pin=C10-2
+Added Pin To Net: NetName=NetC10_2 Pin=U5-6
+Added Net: Name=NetC10_2
+Added Pin To Net: NetName=NetD1_+ Pin=D1-+
+Added Pin To Net: NetName=NetD1_+ Pin=Q1-G
+Added Pin To Net: NetName=NetD1_+ Pin=R1-2
+Added Net: Name=NetD1_+
+Added Pin To Net: NetName=NetD2_+ Pin=D2-+
+Added Pin To Net: NetName=NetD2_+ Pin=D3--
+Added Pin To Net: NetName=NetD2_+ Pin=R4-2
+Added Net: Name=NetD2_+
+Added Pin To Net: NetName=NetD4_+ Pin=D4-+
+Added Pin To Net: NetName=NetD4_+ Pin=D5--
+Added Pin To Net: NetName=NetD4_+ Pin=R5-2
+Added Net: Name=NetD4_+
+Added Pin To Net: NetName=NetD6_+ Pin=D6-+
+Added Pin To Net: NetName=NetD6_+ Pin=R3-1
+Added Net: Name=NetD6_+
+Added Pin To Net: NetName=NetD7_+ Pin=D7-+
+Added Pin To Net: NetName=NetD7_+ Pin=R2-1
+Added Net: Name=NetD7_+
+Added Pin To Net: NetName=NetD8_- Pin=D8--
+Added Pin To Net: NetName=NetD8_- Pin=R6-1
+Added Net: Name=NetD8_-
+Added Pin To Net: NetName=NetU4_4 Pin=U4-4
+Added Pin To Net: NetName=NetU4_4 Pin=U4-5
+Added Pin To Net: NetName=NetU4_4 Pin=U4-13
+Added Net: Name=NetU4_4
+Added Pin To Net: NetName=OUT1 Pin=D2--
+Added Pin To Net: NetName=OUT1 Pin=D3-+
+Added Pin To Net: NetName=OUT1 Pin=U4-3
+Added Net: Name=OUT1
+Added Pin To Net: NetName=OUT2 Pin=C9-1
+Added Pin To Net: NetName=OUT2 Pin=J3-1
+Added Pin To Net: NetName=OUT2 Pin=R4-1
+Added Pin To Net: NetName=OUT2 Pin=U4-6
+Added Net: Name=OUT2
+Added Pin To Net: NetName=OUT3 Pin=C11-2
+Added Pin To Net: NetName=OUT3 Pin=D4--
+Added Pin To Net: NetName=OUT3 Pin=D5-+
+Added Pin To Net: NetName=OUT3 Pin=J4-2
+Added Pin To Net: NetName=OUT3 Pin=U4-11
+Added Net: Name=OUT3
+Added Pin To Net: NetName=OUT4 Pin=C11-1
+Added Pin To Net: NetName=OUT4 Pin=J4-1
+Added Pin To Net: NetName=OUT4 Pin=R5-1
+Added Pin To Net: NetName=OUT4 Pin=U4-14
+Added Net: Name=OUT4
+Added Pin To Net: NetName=RESET Pin=J2-1
+Added Pin To Net: NetName=RESET Pin=U1-1
+Added Net: Name=RESET
+Added Pin To Net: NetName=RXD Pin=U1-2
+Added Net: Name=RXD
+Added Pin To Net: NetName=SCK Pin=D8-B
+Added Pin To Net: NetName=SCK Pin=J2-2
+Added Pin To Net: NetName=SCK Pin=U1-19
+Added Net: Name=SCK
+Added Pin To Net: NetName=SCL Pin=J7-2
+Added Pin To Net: NetName=SCL Pin=U1-28
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=J7-1
+Added Pin To Net: NetName=SDA Pin=U1-27
+Added Net: Name=SDA
+Added Pin To Net: NetName=Tirg Pin=J6-3
+Added Pin To Net: NetName=Tirg Pin=U1-26
+Added Net: Name=Tirg
+Added Pin To Net: NetName=TXD Pin=U1-3
+Added Net: Name=TXD
+Added Pin To Net: NetName=VCC Pin=C3-1
+Added Pin To Net: NetName=VCC Pin=C4-1
+Added Pin To Net: NetName=VCC Pin=D1--
+Added Pin To Net: NetName=VCC Pin=Q1-S
+Added Pin To Net: NetName=VCC Pin=U1-24
+Added Pin To Net: NetName=VCC Pin=U3-1
+Added Pin To Net: NetName=VCC Pin=U5-1
+Added Pin To Net: NetName=VCC Pin=U5-2
+Added Net: Name=VCC
+Added Pin To Net: NetName=VIN Pin=J1-1
+Added Pin To Net: NetName=VIN Pin=Q1-D
+Added Net: Name=VIN
+Added Pin To Net: NetName=VS-SEN Pin=C13-2
+Added Pin To Net: NetName=VS-SEN Pin=U4-8
+Added Pin To Net: NetName=VS-SEN Pin=U5-3
+Added Pin To Net: NetName=VS-SEN Pin=U5-4
+Added Net: Name=VS-SEN
+Added Class: Name=RC_Car_ATMEGA8

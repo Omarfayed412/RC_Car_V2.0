@@ -1,0 +1,81 @@
+Change Component DesignItemId : Designator=C1 Old DesignItemId=MLCC_0402 New DesignItemId=MLCC_0603
+Change Component DesignItemId : Designator=C2 Old DesignItemId=MLCC_0402 New DesignItemId=MLCC_0603
+Change Component DesignItemId : Designator=C3 Old DesignItemId=MLCC_0402 New DesignItemId=MLCC_0603
+Change Component DesignItemId : Designator=C6 Old DesignItemId=MLCC_0402 New DesignItemId=MLCC_0603
+Change Component DesignItemId : Designator=C9 Old DesignItemId=MLCC_0402 New DesignItemId=MLCC_0603
+Change Component DesignItemId : Designator=C11 Old DesignItemId=MLCC_0402 New DesignItemId=MLCC_0603
+Change Component DesignItemId : Designator=C12 Old DesignItemId=MLCC_0402 New DesignItemId=MLCC_0603
+Change Component DesignItemId : Designator=C13 Old DesignItemId=MLCC_0402 New DesignItemId=MLCC_0603
+Change Component DesignItemId : Designator=C14 Old DesignItemId=MLCC_0402 New DesignItemId=MLCC_0603
+Change Component Footprint: Designator=C1 Old Footprint=MLCC_0402 New Footprint=MLCC_0603
+Change Component Footprint: Designator=C2 Old Footprint=MLCC_0402 New Footprint=MLCC_0603
+Change Component Footprint: Designator=C3 Old Footprint=MLCC_0402 New Footprint=MLCC_0603
+Change Component Footprint: Designator=C6 Old Footprint=MLCC_0402 New Footprint=MLCC_0603
+Change Component Footprint: Designator=C9 Old Footprint=MLCC_0402 New Footprint=MLCC_0603
+Change Component Footprint: Designator=C11 Old Footprint=MLCC_0402 New Footprint=MLCC_0603
+Change Component Footprint: Designator=C12 Old Footprint=MLCC_0402 New Footprint=MLCC_0603
+Change Component Footprint: Designator=C13 Old Footprint=MLCC_0402 New Footprint=MLCC_0603
+Change Component Footprint: Designator=C14 Old Footprint=MLCC_0402 New Footprint=MLCC_0603
+Change Component Comment : Designator=C1 Old Comment=MLCC_0402 New Comment=MLCC_0603
+Change Component Comment : Designator=C2 Old Comment=MLCC_0402 New Comment=MLCC_0603
+Change Component Comment : Designator=C3 Old Comment=MLCC_0402 New Comment=MLCC_0603
+Change Component Comment : Designator=C6 Old Comment=MLCC_0402 New Comment=MLCC_0603
+Change Component Comment : Designator=C9 Old Comment=MLCC_0402 New Comment=MLCC_0603
+Change Component Comment : Designator=C11 Old Comment=MLCC_0402 New Comment=MLCC_0603
+Change Component Comment : Designator=C12 Old Comment=MLCC_0402 New Comment=MLCC_0603
+Change Component Comment : Designator=C13 Old Comment=MLCC_0402 New Comment=MLCC_0603
+Change Component Comment : Designator=C14 Old Comment=MLCC_0402 New Comment=MLCC_0603
+Change component parameters: Designator = "C1" ("C1"); Footprint = "MLCC_0402"; UniqueID = "\WIYNHMHQ" ("\WIYNHMHQ")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer part #"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part #"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2" ("C2"); Footprint = "MLCC_0402"; UniqueID = "\HGFJGMKN" ("\HGFJGMKN")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer part #"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part #"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3" ("C3"); Footprint = "MLCC_0402"; UniqueID = "\FFSTRYOS" ("\FFSTRYOS")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer part #"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part #"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6" ("C6"); Footprint = "MLCC_0402"; UniqueID = "\GCCPHSWP" ("\GCCPHSWP")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer part #"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part #"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C9" ("C9"); Footprint = "MLCC_0402"; UniqueID = "\XWVKGRQB" ("\XWVKGRQB")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer part #"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part #"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C11" ("C11"); Footprint = "MLCC_0402"; UniqueID = "\EYJBUSKQ" ("\EYJBUSKQ")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer part #"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part #"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C12" ("C12"); Footprint = "MLCC_0402"; UniqueID = "\ZTJZUWXX" ("\ZTJZUWXX")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer part #"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part #"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C13" ("C13"); Footprint = "MLCC_0402"; UniqueID = "\GIMLXNZY" ("\GIMLXNZY")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer part #"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part #"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C14" ("C14"); Footprint = "MLCC_0402"; UniqueID = "\HYQZOSTO" ("\HYQZOSTO")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer part #"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part #"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
